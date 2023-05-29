@@ -1,0 +1,18 @@
+/* .MuiCardActions-root
+{
+    justify-content: center !important;
+} */
+.product{
+    margin:5%;
+    width:20rem;
+    height:43rem
+   
+}
+.price{
+    margin-top: 1rem;
+    font-weight: bold;
+}
+.action{
+    display: flex;
+    justify-content: center;
+}

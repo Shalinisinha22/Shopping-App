@@ -1,0 +1,10 @@
+.cartNumber{
+    position: absolute;
+    left: 70%;
+    top: -15%;
+    font-size: smaller;
+  }
+  .Navbar{
+    position:sticky;
+ 
+  }

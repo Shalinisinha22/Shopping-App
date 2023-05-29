@@ -1,0 +1,32 @@
+ .productsContainer{
+    display:flex;
+    flex-wrap: wrap;
+    margin-top: 3%;
+    margin-left: 4%;
+   
+
+
+} 
+@media only screen and (max-width:767px) {
+
+    .productsContainer{
+       
+        margin-top: 45%;
+        margin-left: 5%;
+       
+    
+    
+    }  
+}
+@media only screen and (max-width:1023px) {
+
+    .productsContainer{
+       
+        margin-top: 20%;
+        margin-left: 25%;
+       
+    
+    
+    }  
+}
+
