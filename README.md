@@ -1,4 +1,5 @@
 # Shopping-App
+Hosted on :  https://endearing-klepon-cd77bb.netlify.app/
 <h1>Home page</h1>
 
 ![homepage](https://github.com/Shalinisinha22/Shopping-App/assets/122859073/541a68a0-088d-4375-a875-c219b43e0429)
